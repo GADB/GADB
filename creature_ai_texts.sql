@@ -22,3 +22,12 @@
 # You should have received a copy of the GNU General Public License            #
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.        #
 ################################################################################
+
+SET NAMES 'utf8';
+
+##### creature_ai_texts #####
+
+UPDATE creature_ai_texts SET content_loc3=NULL;
+
+UPDATE creature_ai_texts SET content_loc3='Vielleicht sollte ich einfach auf die Jagd nach dieser elenden Bestie gehen, jetzt wo eine Belohnung auf ihren Kopf ausgesetzt ist.' WHERE entry=-100206;
+UPDATE creature_ai_texts SET content_loc3='%s versucht vor Angst davon zu rennen!' WHERE entry=-47;

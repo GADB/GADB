@@ -22,3 +22,9 @@
 # You should have received a copy of the GNU General Public License            #
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.        #
 ################################################################################
+
+SET NAMES 'utf8';
+
+##### custom_texts #####
+
+UPDATE custom_texts SET content_loc3=NULL;
