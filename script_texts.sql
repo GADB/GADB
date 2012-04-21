@@ -57,4 +57,7 @@ UPDATE script_texts SET content_loc3='Seid gegrüßt, $N.' WHERE entry=-1000022;
 UPDATE script_texts SET content_loc3='Hmmm...' WHERE entry=-1000028;
 UPDATE script_texts SET content_loc3='Auf geht\'s!' WHERE entry=-1638009;
 UPDATE script_texts SET content_loc3='Hilfe!' WHERE entry=-1638014;
+UPDATE `script_texts` SET `content_loc3` = 'Wir haben Gilneas vor der Geißel beschützt. Wir haben Gilneas während der Nordtorrebellion beschützt. Wir werden Gilneas beschützen, was auch immer uns jetzt bedroht.' WHERE `entry` = -1638001;
+UPDATE `script_texts` SET `content_loc3` = 'Seid bereit, Wachen! Ich weiß nicht, wie viele Eindringlinge es sind, doch die Mark ist überrannt und wir sind von den Hafenstädten abgeschnitten. Rechnet damit, in der Unterzahl zu sein.' WHERE `entry` = -1638002;
+UPDATE `script_texts` SET `content_loc3` = 'Ich will, dass das ganze Gebiet hier gesichert ist und die Tore immer mit zwei Männern besetzt sind. Niemand kommt rein, niemand raus.' WHERE `entry` = -1638000;
 
