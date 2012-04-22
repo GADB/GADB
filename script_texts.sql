@@ -64,4 +64,7 @@ UPDATE script_texts SET content_loc3='Stellung halten, Männer!' WHERE entry=-163
 UPDATE script_texts SET content_loc3='Schützt die Zivilisten!' WHERE entry=-1638027;
 UPDATE script_texts SET content_loc3='Drängt sie zurück!' WHERE entry=-1638028;
 UPDATE script_texts SET content_loc3='Nur Mut, Männer! Wir müssen unsere Stadt schützen!' WHERE entry=-1638029;
+UPDATE script_texts SET content_loc3='WIIIIII!' WHERE entry=-1631095;
+UPDATE script_texts SET content_loc3='Ich glaub, ich böses Aa gemacht. Es explodiert!' WHERE entry=-1631099;
+UPDATE script_texts SET content_loc3='Schlechte Nachrichten, Papi...' WHERE entry=-1631103;
 
